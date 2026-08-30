@@ -1,39 +1,28 @@
-<h2 data-importer="text" align="center">Hi 👋 Im just a random dude</h2>
+<h2 align="center">🏆 cMD808</h2>
+<p align="center">Tech Enthusiast & Innovator</p>
 
-###
+<div align="center">
 
-<div data-importer="socials" align="left">
-  <a href="kcadversalo60@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="-12" height="-12" alt="gmail logo"  />
-  </a>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=cMD808&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
-###
+## 📊 GitHub Stats
 
-<h1 data-importer="text" align="left">Soul Resonance:</h1>
+<div align="center">
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cMD808&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cMD808&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
 </div>
 
-###
+## 🛠️ Tech Stack
+
+## 🔗 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cMD808)
+
+</div>
