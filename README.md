@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/Gemini_Generated_Image_4d84p04d84p04d84-removebg-preview.png" alt="Simplicity Gate" width="300">
+   <img width="517" height="483" alt="Gemini_Generated_Image_4d84p04d84p04d84-removebg-preview" src="https://github.com/user-attachments/assets/5afcf7f3-8cd3-44db-bd27-ab8bee229a78" />
 </p>
